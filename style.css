@@ -1,0 +1,46 @@
+body
+{
+	text-align: center;
+	background-color: grey;
+}
+.wraper 
+{
+	margin-left: 100px;
+}
+h1 
+{
+	text-align: center;
+}
+input
+{
+	margin-top: 20px;
+	border-color: #FF0000;
+	border:1px solid; 
+}
+.button {
+	width: 170px;
+	height: 40px;
+	margin-top: 30px;
+	border: none;
+	background-color: #00BFFF;
+	text-align: center;
+	color: #ffffff;
+	padding-top: 7px;
+}
+.exit {
+	width: 170px;
+	height: 40px;
+	margin-top: 30px;
+	border: none;
+	background-color: #00BFFF;
+	text-align: center;
+	color: #ffffff;
+	padding-top: 7px;
+	position: absolute;
+	right: 20px;
+	top: 10px;
+}
+.error403 {
+	width: 100%;
+	height: 1000px;
+}
